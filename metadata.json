@@ -1,0 +1,10 @@
+{
+  "name": "YueBridge 粵聲同行",
+  "description": "雙語離散社群的粵語傳承系統：結合 AI 與英文/粵語 Code-switching 機制的情境化口語學習平台。",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
